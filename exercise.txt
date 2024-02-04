@@ -1,0 +1,27 @@
+Name: Ejike-Nweze, Olisaeloka Michael
+Topic: Process Documentation – Creating New Employee Emails in cPanel.
+Objective: This document aims to provide a step-by-step guide for creating new employee email accounts using cPanel.
+Prerequisites:
+* Access to cPanel account with appropriate privileges.
+
+Steps:
+1.  Log in to cPanel account.
+* Open your preferred web browser.
+* Enter the cPanel access URL provided by your hosting provider (e.g., https://yourdomain.com/cpanel). Replace ‘domain’ with your domain name.
+* Log in using your cPanel username and password.
+
+2. Navigate to email accounts.
+* Once logged in, locate the “Email” section in your dashboard.
+* Click on “Email Accounts”.
+
+3. Create a new email account.
+* On the "Email Accounts" page, locate the "Create" button.
+* Fill in the required details for the new email account:
+* Enter the desired email address (e.g., company.employee@companydomain.com).
+* Set a secure password for the email account or send a login link to an alternate email address for password setup.
+* Specify the mailbox storage space (optional).
+* Click on the "Create" button to finalize.
+
+4. Test the email.
+* Send a test email to the newly registered email address to confirm it receives emails.
+* Send a test email from the newly registered email to confirm it sends emails.
