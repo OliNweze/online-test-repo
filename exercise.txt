@@ -1,27 +1,24 @@
 Name: Ejike-Nweze, Olisaeloka Michael
-Topic: Process Documentation – Creating New Employee Emails in cPanel.
-Objective: This document aims to provide a step-by-step guide for creating new employee email accounts using cPanel.
-Prerequisites:
-* Access to cPanel account with appropriate privileges.
+Introduction to Cloud Computing Concepts
+1. What is Cloud Computing? Cloud computing is a technology that enables users to access and utilize computing resources (such as servers, storage, databases, networking, software) over the internet, commonly referred to as "the cloud." This model eliminates the need for physical infrastructure and allows organizations to scale resources dynamically.
+2. Key Characteristics of Cloud Computing:
+On-Demand Self-Service: Users can provision and manage resources as needed without human intervention.
+Broad Network Access: Access cloud services over the internet from various devices.
+Resource Pooling: Computing resources are shared among multiple users to optimize efficiency.
+Rapid Elasticity: Scale resources up or down based on demand.
+Measured Service: Users pay for actual usage rather than a pre-allocated capacity.
+3. Service Models:
+Infrastructure as a Service (IaaS): Provides virtualized computing resources over the internet. Users have control over the operating system, but the underlying infrastructure is managed by the cloud provider.
+Platform as a Service (PaaS): Offers a platform that includes an operating system, runtime, and development framework. Users can focus on application development without managing the underlying infrastructure.
+Software as a Service (SaaS): Delivers software applications over the internet on a subscription basis. Users can access the software without worrying about maintenance or updates.
+4. Deployment Models:
+Public Cloud: Services are provided over the internet and shared among multiple organizations.
+Private Cloud: Infrastructure is dedicated to a single organization and may be managed on-premises or by a third-party provider.
+Hybrid Cloud: Combines elements of both public and private clouds, allowing data and applications to be shared between them.
+5. Benefits of Cloud Computing:
+Cost Savings: Eliminates the need for upfront capital investment in hardware and infrastructure.
+Scalability: Easily scale resources up or down to accommodate changing workloads.
+Flexibility: Access resources from anywhere with an internet connection.
+Automatic Updates: Cloud providers handle software updates, ensuring the latest features and security patches.
+Conclusion: Cloud computing has transformed the way organizations approach IT infrastructure, offering flexibility, scalability, and cost-efficiency. Understanding the key concepts and models helps businesses make informed decisions about adopting cloud technologies.
 
-Steps:
-1.  Log in to cPanel account.
-* Open your preferred web browser.
-* Enter the cPanel access URL provided by your hosting provider (e.g., https://yourdomain.com/cpanel). Replace ‘domain’ with your domain name.
-* Log in using your cPanel username and password.
-
-2. Navigate to email accounts.
-* Once logged in, locate the “Email” section in your dashboard.
-* Click on “Email Accounts”.
-
-3. Create a new email account.
-* On the "Email Accounts" page, locate the "Create" button.
-* Fill in the required details for the new email account:
-* Enter the desired email address (e.g., company.employee@companydomain.com).
-* Set a secure password for the email account or send a login link to an alternate email address for password setup.
-* Specify the mailbox storage space (optional).
-* Click on the "Create" button to finalize.
-
-4. Test the email.
-* Send a test email to the newly registered email address to confirm it receives emails.
-* Send a test email from the newly registered email to confirm it sends emails.
